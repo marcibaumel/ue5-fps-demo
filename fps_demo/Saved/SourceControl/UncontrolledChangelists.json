@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Code/ue5-fps-demo/fps_demo/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Code/ue5-fps-demo/fps_demo/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Code/ue5-fps-demo/fps_demo/Content/ThirdPerson/Input/Actions/IA_FlashLight.uasset",
+				"C:/Code/ue5-fps-demo/fps_demo/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Code/ue5-fps-demo/fps_demo/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
