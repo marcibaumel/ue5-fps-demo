@@ -8,7 +8,13 @@
 				"C:/Code/ue5-fps-demo/fps_demo/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Code/ue5-fps-demo/fps_demo/Content/ThirdPerson/Input/Actions/IA_FlashLight.uasset",
 				"C:/Code/ue5-fps-demo/fps_demo/Content/ThirdPerson/Input/IMC_Default.uasset",
-				"C:/Code/ue5-fps-demo/fps_demo/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"C:/Code/ue5-fps-demo/fps_demo/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Code/ue5-fps-demo/fps_demo/Content/Asset/click.uasset",
+				"C:/Code/ue5-fps-demo/fps_demo/Content/Blueprint/BP_Drawer.uasset",
+				"C:/Code/ue5-fps-demo/fps_demo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/QZ/G2LA0P2ZMQAUI23JAPMQJ8.uasset",
+				"C:/Code/ue5-fps-demo/fps_demo/Content/StarterContent/Props/SM_Door.uasset",
+				"C:/Code/ue5-fps-demo/fps_demo/Content/ThirdPerson/Input/Actions/IA_Interact.uasset",
+				"C:/Code/ue5-fps-demo/fps_demo/Content/Blueprint/BPI_Interaction.uasset"
 			]
 		}
 	]
