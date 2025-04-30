@@ -14,7 +14,22 @@
 				"C:/Code/ue5-fps-demo/fps_demo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/QZ/G2LA0P2ZMQAUI23JAPMQJ8.uasset",
 				"C:/Code/ue5-fps-demo/fps_demo/Content/StarterContent/Props/SM_Door.uasset",
 				"C:/Code/ue5-fps-demo/fps_demo/Content/ThirdPerson/Input/Actions/IA_Interact.uasset",
-				"C:/Code/ue5-fps-demo/fps_demo/Content/Blueprint/BPI_Interaction.uasset"
+				"C:/Code/ue5-fps-demo/fps_demo/Content/Blueprint/BPI_Interaction.uasset",
+				"C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/14_Step_water_02.uasset",
+				"C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/26_Swim_Submerged_02.uasset",
+				"C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/30_Jump_03.uasset",
+				"C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/42_Cling_climb_03.uasset",
+				"C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/45_Landing_01.uasset",
+				"C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/52_Dive_02.uasset",
+				"C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/56_Attack_03.uasset",
+				"C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/61_Hit_03.uasset",
+				"C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/88_Teleport_02.uasset",
+				"C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/03_Step_grass_03.uasset",
+				"C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/08_Step_rock_02.uasset",
+				"C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/12_Step_wood_03.uasset",
+				"C:/Code/ue5-fps-demo/fps_demo/Content/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.uasset",
+				"C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/SA_Character.uasset",
+				"C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/FootStep.uasset"
 			]
 		}
 	]

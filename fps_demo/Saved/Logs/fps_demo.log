@@ -3391,3 +3391,484 @@ Script call stack:
 [2025.04.29-19.47.54:841][ 74]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.04.29-19.47.54:841][ 74]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.04.29-19.47.54:841][ 74]AssetCheck: /Game/Blueprint/BP_Drawer Validating asset
+[2025.04.29-19.50.21:850][446]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5751.680176
+[2025.04.29-19.50.22:850][449]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.29-19.50.22:850][449]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5752.346680, Update Interval: 305.888855
+[2025.04.29-19.56.21:903][526]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6111.750488
+[2025.04.29-19.56.22:904][529]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.29-19.56.22:904][529]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6112.417969, Update Interval: 345.777771
+[2025.04.29-20.02.48:628][686]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6498.486328
+[2025.04.29-20.02.49:629][689]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.29-20.02.49:629][689]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6499.153320, Update Interval: 317.477966
+[2025.04.29-20.05.27:056][156]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.04.30-05.11.36:646][156]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: Yes RefreshRequired: Yes VerifyRequired: Yes UserId: 01e...726
+[2025.04.30-05.11.36:646][156]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: -3.222e+04 RefreshExpires: 1.551e+07
+[2025.04.30-05.11.36:731][158]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.04.30-05.11.36:737][158]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=29544
+[2025.04.30-05.11.36:982][158]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.04.30-05.11.36:985][158]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{cd2e899d-50c1-49fb-afca-6d062910a0a1}, Name=Hangszórók (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=188.32
+[2025.04.30-05.11.36:985][158]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.04.30-05.11.36:989][158]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.04.30-05.11.37:796][158]LogHttp: Warning: 00000B09CC081C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.30-05.11.37:796][158]LogHttp: Warning: 00000B09CC081C00: libcurl info message cache 0 (Too old connection (32826 seconds idle), disconnect it)
+[2025.04.30-05.11.37:796][158]LogHttp: Warning: 00000B09CC081C00: libcurl info message cache 1 (Connection 1 seems to be dead)
+[2025.04.30-05.11.37:796][158]LogHttp: Warning: 00000B09CC081C00: libcurl info message cache 2 (Closing connection)
+[2025.04.30-05.11.37:796][158]LogHttp: Warning: 00000B09CC081C00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.04.30-05.11.37:796][158]LogHttp: Warning: 00000B09CC081C00: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.04.30-05.11.37:796][158]LogHttp: Warning: 00000B09CC081C00: libcurl info message cache 5 (Closing connection)
+[2025.04.30-05.11.37:796][158]LogEOSSDK: Warning: LogHttp: 00000B09CA6E2400: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=8707AD8E4B51DABEDA5F499FCB51916E, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.30-05.11.37:796][158]LogEOSSDK: Warning: LogHttp: 00000B09CA6E2400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.30-05.11.37:796][158]LogEOSSDK: Warning: LogHttp: 00000B09CA6E2400: libcurl info message cache 0 (Found bundle for host: 0xb0953880720 [serially])
+[2025.04.30-05.11.37:796][158]LogEOSSDK: Warning: LogHttp: 00000B09CA6E2400: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.04.30-05.11.37:796][158]LogEOSSDK: Warning: LogHttp: 00000B09CA6E2400: libcurl info message cache 2 (Closing connection)
+[2025.04.30-05.11.37:796][158]LogEOSSDK: Warning: LogHttp: 00000B09CA6E7E00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.30-05.11.37:796][158]LogEOSSDK: Warning: LogHttp: 00000B09CA6E7E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.30-05.11.37:796][158]LogEOSSDK: Warning: LogHttp: 00000B09CA6E7E00: libcurl info message cache 0 (Found bundle for host: 0xb0953880720 [serially])
+[2025.04.30-05.11.37:796][158]LogEOSSDK: Warning: LogHttp: 00000B09CA6E7E00: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.04.30-05.11.37:796][158]LogEOSSDK: Warning: LogHttp: 00000B09CA6E7E00: libcurl info message cache 2 (Closing connection)
+[2025.04.30-05.11.37:796][158]LogEOSSDK: Warning: LogHttp: 00000B09CA6E5400: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B0F4535CD-43F0-6E31-7D9B-BA9F58F90C6E%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.30-05.11.37:796][158]LogEOSSDK: Warning: LogHttp: 00000B09CA6E5400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.30-05.11.37:796][158]LogEOSSDK: Warning: LogHttp: 00000B09CA6E5400: libcurl info message cache 0 (Too old connection (32814 seconds idle), disconnect it)
+[2025.04.30-05.11.37:796][158]LogEOSSDK: Warning: LogHttp: 00000B09CA6E5400: libcurl info message cache 1 (Connection 3 seems to be dead)
+[2025.04.30-05.11.37:796][158]LogEOSSDK: Warning: LogHttp: 00000B09CA6E5400: libcurl info message cache 2 (Closing connection)
+[2025.04.30-05.11.37:796][159]LogEOSSDK: Warning: LogHttp: 00000B09CA6E5400: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.04.30-05.11.37:796][159]LogEOSSDK: Warning: LogHttp: 00000B09CA6E5400: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.04.30-05.11.37:796][159]LogEOSSDK: Warning: LogHttp: 00000B09CA6E5400: libcurl info message cache 5 (Closing connection)
+[2025.04.30-05.11.37:796][159]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B0F4535CD-43F0-6E31-7D9B-BA9F58F90C6E%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.04.30-05.11.37:796][159]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/token
+[2025.04.30-05.11.37:796][159]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=8707AD8E4B51DABEDA5F499FCB51916E
+[2025.04.30-05.11.37:833][160]LogEOSSDK: Warning: LogHttp: 00000B09CA6E1200: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.30-05.11.37:833][160]LogEOSSDK: Warning: LogHttp: 00000B09CA6E1200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.30-05.11.37:834][160]LogEOSSDK: Warning: LogHttp: 00000B09CA6E1200: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.04.30-05.11.37:834][160]LogEOSSDK: Warning: LogHttp: 00000B09CA6E1200: libcurl info message cache 1 (Closing connection)
+[2025.04.30-05.11.37:834][160]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.04.30-05.11.38:802][162]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/epic/oauth/v2/token
+[2025.04.30-05.11.38:802][162]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=8707AD8E4B51DABEDA5F499FCB51916E
+[2025.04.30-05.11.39:136][163]LogEOSSDK: Warning: LogHttp: 00000B09CA6E7E00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.30-05.11.39:136][163]LogEOSSDK: Warning: LogHttp: 00000B09CA6E7E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.30-05.11.39:136][163]LogEOSSDK: Warning: LogHttp: 00000B09CA6E7E00: libcurl info message cache 3 (Could not resolve host: api.epicgames.dev)
+[2025.04.30-05.11.39:136][163]LogEOSSDK: Warning: LogHttp: 00000B09CA6E7E00: libcurl info message cache 4 (Closing connection)
+[2025.04.30-05.11.39:136][163]LogEOSSDK: Warning: LogHttp: 00000B09CA6E2400: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=8707AD8E4B51DABEDA5F499FCB51916E, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.30-05.11.39:136][163]LogEOSSDK: Warning: LogHttp: 00000B09CA6E2400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.30-05.11.39:136][163]LogEOSSDK: Warning: LogHttp: 00000B09CA6E2400: libcurl info message cache 3 (Found bundle for host: 0xb0953880a80 [serially])
+[2025.04.30-05.11.39:136][163]LogEOSSDK: Warning: LogHttp: 00000B09CA6E2400: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.04.30-05.11.39:136][163]LogEOSSDK: Warning: LogHttp: 00000B09CA6E2400: libcurl info message cache 5 (Closing connection)
+[2025.04.30-05.11.39:136][163]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/token
+[2025.04.30-05.11.39:136][163]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=8707AD8E4B51DABEDA5F499FCB51916E
+[2025.04.30-05.11.39:136][163]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.04.30-05.11.39:468][164]LogEOSSDK: Warning: LogHttp: 00000B09CA6E1200: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.30-05.11.39:468][164]LogEOSSDK: Warning: LogHttp: 00000B09CA6E1200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.04.30-05.11.39:468][164]LogEOSSDK: Warning: LogHttp: 00000B09CA6E1200: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.04.30-05.11.39:468][164]LogEOSSDK: Warning: LogHttp: 00000B09CA6E1200: libcurl info message cache 3 (Closing connection)
+[2025.04.30-05.11.39:468][164]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.04.30-05.11.40:138][166]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/epic/oauth/v2/token
+[2025.04.30-05.11.40:138][166]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=8707AD8E4B51DABEDA5F499FCB51916E
+[2025.04.30-05.11.40:469][167]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.04.30-05.11.40:802][168]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/epic/oauth/v2/token
+[2025.04.30-05.11.40:802][168]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=8707AD8E4B51DABEDA5F499FCB51916E
+[2025.04.30-05.11.41:136][169]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 01e...726 Access[Expires: 2025.04.30-07.11.40 Remaining: 7200.69] Refresh[Expires: 2025-10-26T18:14:34.565Z Remaining: 15512574.56] State: Valid
+[2025.04.30-05.11.41:136][169]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.04.30-05.12.18:471][281]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39468.332031
+[2025.04.30-05.12.19:471][284]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.30-05.12.19:471][284]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39468.996094, Update Interval: 330.286560
+[2025.04.30-05.17.24:040][917]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.30-05.17.24:047][917]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.30-05.17.24:055][918]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.30-05.17.25:907][141]LogContentBrowser: Attempting asset rename: NewFolder -> sound
+[2025.04.30-05.17.25:908][141]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.30-05.17.33:119][611]LogStreaming: Display: FlushAsyncLoading(590): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.30-05.17.33:143][611]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Code\ue5-fps-demo\asset zip\14_Step_water_02.wav)
+[2025.04.30-05.17.33:158][611]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave 14_Step_water_02...
+[2025.04.30-05.17.33:160][611]LogAudioDerivedData: Display: 14_Step_water_02 compressed to 10.27% (from 115KB to 11KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.04.30-05.17.33:160][611]LogAudio: Display: Chunk stats for (SoundWave /Game/Asset/sound/14_Step_water_02.14_Step_water_02: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=12135 bytes, ChunkN=0)
+[2025.04.30-05.17.33:162][611]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave 14_Step_water_02...
+[2025.04.30-05.17.33:164][611]LogAudioDerivedData: Display: 14_Step_water_02 compressed to 10.27% (from 115KB to 11KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.04.30-05.17.33:164][611]LogAudio: Display: Chunk stats for (SoundWave /Game/Asset/sound/14_Step_water_02.14_Step_water_02: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=12135 bytes, ChunkN=0)
+[2025.04.30-05.17.33:168][611]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Code\ue5-fps-demo\asset zip\26_Swim_Submerged_02.wav)
+[2025.04.30-05.17.33:169][611]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave 26_Swim_Submerged_02...
+[2025.04.30-05.17.33:173][611]LogAudioDerivedData: Display: 26_Swim_Submerged_02 compressed to 4.66% (from 345KB to 16KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.04.30-05.17.33:174][611]LogAudio: Display: Chunk stats for (SoundWave /Game/Asset/sound/26_Swim_Submerged_02.26_Swim_Submerged_02: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=16475 bytes, ChunkN=0)
+[2025.04.30-05.17.33:174][611]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave 26_Swim_Submerged_02...
+[2025.04.30-05.17.33:179][611]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Code\ue5-fps-demo\asset zip\30_Jump_03.wav)
+[2025.04.30-05.17.33:179][611]LogAudioDerivedData: Display: 26_Swim_Submerged_02 compressed to 4.66% (from 345KB to 16KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.04.30-05.17.33:179][611]LogAudio: Display: Chunk stats for (SoundWave /Game/Asset/sound/26_Swim_Submerged_02.26_Swim_Submerged_02: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=16475 bytes, ChunkN=0)
+[2025.04.30-05.17.33:180][611]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave 30_Jump_03...
+[2025.04.30-05.17.33:181][611]LogAudioDerivedData: Display: 30_Jump_03 compressed to 6.62% (from 149KB to 9KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.04.30-05.17.33:181][611]LogAudio: Display: Chunk stats for (SoundWave /Game/Asset/sound/30_Jump_03.30_Jump_03: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=10135 bytes, ChunkN=0)
+[2025.04.30-05.17.33:182][611]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave 30_Jump_03...
+[2025.04.30-05.17.33:183][611]LogAudioDerivedData: Display: 30_Jump_03 compressed to 6.62% (from 149KB to 9KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.04.30-05.17.33:183][611]LogAudio: Display: Chunk stats for (SoundWave /Game/Asset/sound/30_Jump_03.30_Jump_03: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=10135 bytes, ChunkN=0)
+[2025.04.30-05.17.33:185][611]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Code\ue5-fps-demo\asset zip\42_Cling_climb_03.wav)
+[2025.04.30-05.17.33:185][611]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave 42_Cling_climb_03...
+[2025.04.30-05.17.33:186][611]LogAudioDerivedData: Display: 42_Cling_climb_03 compressed to 4.38% (from 115KB to 5KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.04.30-05.17.33:187][611]LogAudio: Display: Chunk stats for (SoundWave /Game/Asset/sound/42_Cling_climb_03.42_Cling_climb_03: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=5167 bytes, ChunkN=0)
+[2025.04.30-05.17.33:187][611]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave 42_Cling_climb_03...
+[2025.04.30-05.17.33:188][611]LogAudioDerivedData: Display: 42_Cling_climb_03 compressed to 4.38% (from 115KB to 5KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.04.30-05.17.33:188][611]LogAudio: Display: Chunk stats for (SoundWave /Game/Asset/sound/42_Cling_climb_03.42_Cling_climb_03: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=5167 bytes, ChunkN=0)
+[2025.04.30-05.17.33:189][611]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Code\ue5-fps-demo\asset zip\45_Landing_01.wav)
+[2025.04.30-05.17.33:191][611]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave 45_Landing_01...
+[2025.04.30-05.17.33:193][611]LogAudioDerivedData: Display: 45_Landing_01 compressed to 9.90% (from 115KB to 11KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.04.30-05.17.33:193][611]LogAudio: Display: Chunk stats for (SoundWave /Game/Asset/sound/45_Landing_01.45_Landing_01: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=11699 bytes, ChunkN=0)
+[2025.04.30-05.17.33:193][611]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave 45_Landing_01...
+[2025.04.30-05.17.33:194][611]LogAudioDerivedData: Display: 45_Landing_01 compressed to 9.90% (from 115KB to 11KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.04.30-05.17.33:194][611]LogAudio: Display: Chunk stats for (SoundWave /Game/Asset/sound/45_Landing_01.45_Landing_01: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=11699 bytes, ChunkN=0)
+[2025.04.30-05.17.33:196][611]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Code\ue5-fps-demo\asset zip\52_Dive_02.wav)
+[2025.04.30-05.17.33:198][611]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave 52_Dive_02...
+[2025.04.30-05.17.33:204][611]LogAudioDerivedData: Display: 52_Dive_02 compressed to 10.70% (from 345KB to 36KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.04.30-05.17.33:204][611]LogAudio: Display: Chunk stats for (SoundWave /Game/Asset/sound/52_Dive_02.52_Dive_02: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=37803 bytes, ChunkN=0)
+[2025.04.30-05.17.33:204][611]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave 52_Dive_02...
+[2025.04.30-05.17.33:204][611]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Code\ue5-fps-demo\asset zip\56_Attack_03.wav)
+[2025.04.30-05.17.33:205][611]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave 56_Attack_03...
+[2025.04.30-05.17.33:207][611]LogAudioDerivedData: Display: 56_Attack_03 compressed to 12.35% (from 115KB to 14KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.04.30-05.17.33:207][611]LogAudio: Display: Chunk stats for (SoundWave /Game/Asset/sound/56_Attack_03.56_Attack_03: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=14595 bytes, ChunkN=0)
+[2025.04.30-05.17.33:207][611]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave 56_Attack_03...
+[2025.04.30-05.17.33:209][611]LogAudioDerivedData: Display: 56_Attack_03 compressed to 12.35% (from 115KB to 14KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.04.30-05.17.33:209][611]LogAudio: Display: Chunk stats for (SoundWave /Game/Asset/sound/56_Attack_03.56_Attack_03: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=14595 bytes, ChunkN=0)
+[2025.04.30-05.17.33:209][611]LogAudioDerivedData: Display: 52_Dive_02 compressed to 10.70% (from 345KB to 36KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.04.30-05.17.33:209][611]LogAudio: Display: Chunk stats for (SoundWave /Game/Asset/sound/52_Dive_02.52_Dive_02: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=37803 bytes, ChunkN=0)
+[2025.04.30-05.17.33:211][611]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Code\ue5-fps-demo\asset zip\61_Hit_03.wav)
+[2025.04.30-05.17.33:212][611]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave 61_Hit_03...
+[2025.04.30-05.17.33:214][611]LogAudioDerivedData: Display: 61_Hit_03 compressed to 6.33% (from 115KB to 7KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.04.30-05.17.33:214][611]LogAudio: Display: Chunk stats for (SoundWave /Game/Asset/sound/61_Hit_03.61_Hit_03: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=7475 bytes, ChunkN=0)
+[2025.04.30-05.17.33:214][611]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave 61_Hit_03...
+[2025.04.30-05.17.33:216][611]LogAudioDerivedData: Display: 61_Hit_03 compressed to 6.33% (from 115KB to 7KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.04.30-05.17.33:216][611]LogAudio: Display: Chunk stats for (SoundWave /Game/Asset/sound/61_Hit_03.61_Hit_03: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=7475 bytes, ChunkN=0)
+[2025.04.30-05.17.33:216][611]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Code\ue5-fps-demo\asset zip\88_Teleport_02.wav)
+[2025.04.30-05.17.33:220][611]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave 88_Teleport_02...
+[2025.04.30-05.17.33:230][611]LogAudioDerivedData: Display: 88_Teleport_02 compressed to 9.51% (from 689KB to 65KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.04.30-05.17.33:230][611]LogAudio: Display: Chunk stats for (SoundWave /Game/Asset/sound/88_Teleport_02.88_Teleport_02: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=67123 bytes, ChunkN=0)
+[2025.04.30-05.17.33:230][611]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave 88_Teleport_02...
+[2025.04.30-05.17.33:234][611]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Code\ue5-fps-demo\asset zip\03_Step_grass_03.wav)
+[2025.04.30-05.17.33:235][611]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave 03_Step_grass_03...
+[2025.04.30-05.17.33:237][611]LogAudioDerivedData: Display: 03_Step_grass_03 compressed to 3.89% (from 115KB to 4KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.04.30-05.17.33:237][611]LogAudio: Display: Chunk stats for (SoundWave /Game/Asset/sound/03_Step_grass_03.03_Step_grass_03: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=4587 bytes, ChunkN=0)
+[2025.04.30-05.17.33:237][611]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave 03_Step_grass_03...
+[2025.04.30-05.17.33:237][611]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Code\ue5-fps-demo\asset zip\08_Step_rock_02.wav)
+[2025.04.30-05.17.33:238][611]LogAudioDerivedData: Display: 03_Step_grass_03 compressed to 3.89% (from 115KB to 4KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.04.30-05.17.33:238][611]LogAudio: Display: Chunk stats for (SoundWave /Game/Asset/sound/03_Step_grass_03.03_Step_grass_03: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=4587 bytes, ChunkN=0)
+[2025.04.30-05.17.33:238][611]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave 08_Step_rock_02...
+[2025.04.30-05.17.33:239][611]LogAudioDerivedData: Display: 08_Step_rock_02 compressed to 2.29% (from 115KB to 2KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.04.30-05.17.33:239][611]LogAudio: Display: Chunk stats for (SoundWave /Game/Asset/sound/08_Step_rock_02.08_Step_rock_02: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=2691 bytes, ChunkN=0)
+[2025.04.30-05.17.33:239][611]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave 08_Step_rock_02...
+[2025.04.30-05.17.33:240][611]LogAudioDerivedData: Display: 88_Teleport_02 compressed to 9.51% (from 689KB to 65KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.04.30-05.17.33:240][611]LogAudio: Display: Chunk stats for (SoundWave /Game/Asset/sound/88_Teleport_02.88_Teleport_02: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=67123 bytes, ChunkN=0)
+[2025.04.30-05.17.33:240][611]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Code\ue5-fps-demo\asset zip\12_Step_wood_03.wav)
+[2025.04.30-05.17.33:240][611]LogAudioDerivedData: Display: 08_Step_rock_02 compressed to 2.29% (from 115KB to 2KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.04.30-05.17.33:240][611]LogAudio: Display: Chunk stats for (SoundWave /Game/Asset/sound/08_Step_rock_02.08_Step_rock_02: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=2691 bytes, ChunkN=0)
+[2025.04.30-05.17.33:241][611]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave 12_Step_wood_03...
+[2025.04.30-05.17.33:241][611]LogAudioDerivedData: Display: 12_Step_wood_03 compressed to 1.92% (from 115KB to 2KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.04.30-05.17.33:241][611]LogAudio: Display: Chunk stats for (SoundWave /Game/Asset/sound/12_Step_wood_03.12_Step_wood_03: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=2255 bytes, ChunkN=0)
+[2025.04.30-05.17.33:242][611]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave 12_Step_wood_03...
+[2025.04.30-05.17.33:243][611]LogAudioDerivedData: Display: 12_Step_wood_03 compressed to 1.92% (from 115KB to 2KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.04.30-05.17.33:243][611]LogAudio: Display: Chunk stats for (SoundWave /Game/Asset/sound/12_Step_wood_03.12_Step_wood_03: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=2255 bytes, ChunkN=0)
+[2025.04.30-05.18.36:197][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.04.30-05.18.36:203][725]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.30-05.18.36:248][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/QZ/G2LA0P2ZMQAUI23JAPMQJ8
+[2025.04.30-05.18.36:248][725]LogSavePackage: Moving 'C:/Code/ue5-fps-demo/fps_demo/Saved/G2LA0P2ZMQAUI23JAPMQJ83D1514444569F770E30ADDA037572815.tmp' to 'C:/Code/ue5-fps-demo/fps_demo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/QZ/G2LA0P2ZMQAUI23JAPMQJ8.uasset'
+[2025.04.30-05.18.36:249][725]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.04.30-05.18.36:249][725]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.04.30-05.18.36:249][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="C:/Code/ue5-fps-demo/fps_demo/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2025.04.30-05.18.36:258][725]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.04.30-05.18.36:258][725]LogSavePackage: Moving 'C:/Code/ue5-fps-demo/fps_demo/Saved/BP_ThirdPersonCharacter20A7F1694337B909125A57A5D3B20BD0.tmp' to 'C:/Code/ue5-fps-demo/fps_demo/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.04.30-05.18.36:259][725]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/sound/14_Step_water_02] ([1] browsable assets)...
+[2025.04.30-05.18.36:260][725]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Asset/sound/14_Step_water_02.14_Step_water_02]
+[2025.04.30-05.18.36:261][725]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/sound/14_Step_water_02]
+[2025.04.30-05.18.36:261][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/sound/14_Step_water_02" FILE="C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/14_Step_water_02.uasset" SILENT=true
+[2025.04.30-05.18.36:262][725]LogSavePackage: Moving output files for package: /Game/Asset/sound/14_Step_water_02
+[2025.04.30-05.18.36:262][725]LogSavePackage: Moving 'C:/Code/ue5-fps-demo/fps_demo/Saved/14_Step_water_020496A22C4EB8E43441A9B6AD982DAAF5.tmp' to 'C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/14_Step_water_02.uasset'
+[2025.04.30-05.18.36:263][725]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/sound/26_Swim_Submerged_02] ([1] browsable assets)...
+[2025.04.30-05.18.36:265][725]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Asset/sound/26_Swim_Submerged_02.26_Swim_Submerged_02]
+[2025.04.30-05.18.36:265][725]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/sound/26_Swim_Submerged_02]
+[2025.04.30-05.18.36:265][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/sound/26_Swim_Submerged_02" FILE="C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/26_Swim_Submerged_02.uasset" SILENT=true
+[2025.04.30-05.18.36:268][725]LogSavePackage: Moving output files for package: /Game/Asset/sound/26_Swim_Submerged_02
+[2025.04.30-05.18.36:268][725]LogSavePackage: Moving 'C:/Code/ue5-fps-demo/fps_demo/Saved/26_Swim_Submerged_02CA7309E447DA989CBECDBD8EB36C328D.tmp' to 'C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/26_Swim_Submerged_02.uasset'
+[2025.04.30-05.18.36:269][725]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/sound/30_Jump_03] ([1] browsable assets)...
+[2025.04.30-05.18.36:270][725]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Asset/sound/30_Jump_03.30_Jump_03]
+[2025.04.30-05.18.36:270][725]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/sound/30_Jump_03]
+[2025.04.30-05.18.36:270][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/sound/30_Jump_03" FILE="C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/30_Jump_03.uasset" SILENT=true
+[2025.04.30-05.18.36:271][725]LogSavePackage: Moving output files for package: /Game/Asset/sound/30_Jump_03
+[2025.04.30-05.18.36:271][725]LogSavePackage: Moving 'C:/Code/ue5-fps-demo/fps_demo/Saved/30_Jump_0390BDF6E342EC7B9B4FCFA1BFFAE804C9.tmp' to 'C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/30_Jump_03.uasset'
+[2025.04.30-05.18.36:272][725]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/sound/42_Cling_climb_03] ([1] browsable assets)...
+[2025.04.30-05.18.36:273][725]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Asset/sound/42_Cling_climb_03.42_Cling_climb_03]
+[2025.04.30-05.18.36:273][725]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/sound/42_Cling_climb_03]
+[2025.04.30-05.18.36:273][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/sound/42_Cling_climb_03" FILE="C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/42_Cling_climb_03.uasset" SILENT=true
+[2025.04.30-05.18.36:274][725]LogSavePackage: Moving output files for package: /Game/Asset/sound/42_Cling_climb_03
+[2025.04.30-05.18.36:274][725]LogSavePackage: Moving 'C:/Code/ue5-fps-demo/fps_demo/Saved/42_Cling_climb_03339109BA446DE77A5701F49A54BC7440.tmp' to 'C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/42_Cling_climb_03.uasset'
+[2025.04.30-05.18.36:275][725]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/sound/45_Landing_01] ([1] browsable assets)...
+[2025.04.30-05.18.36:276][725]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Asset/sound/45_Landing_01.45_Landing_01]
+[2025.04.30-05.18.36:276][725]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/sound/45_Landing_01]
+[2025.04.30-05.18.36:276][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/sound/45_Landing_01" FILE="C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/45_Landing_01.uasset" SILENT=true
+[2025.04.30-05.18.36:278][725]LogSavePackage: Moving output files for package: /Game/Asset/sound/45_Landing_01
+[2025.04.30-05.18.36:278][725]LogSavePackage: Moving 'C:/Code/ue5-fps-demo/fps_demo/Saved/45_Landing_015E0BF6F74193A431FFD78ABC78E5741D.tmp' to 'C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/45_Landing_01.uasset'
+[2025.04.30-05.18.36:278][725]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/sound/52_Dive_02] ([1] browsable assets)...
+[2025.04.30-05.18.36:280][725]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Asset/sound/52_Dive_02.52_Dive_02]
+[2025.04.30-05.18.36:280][725]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/sound/52_Dive_02]
+[2025.04.30-05.18.36:280][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/sound/52_Dive_02" FILE="C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/52_Dive_02.uasset" SILENT=true
+[2025.04.30-05.18.36:282][725]LogSavePackage: Moving output files for package: /Game/Asset/sound/52_Dive_02
+[2025.04.30-05.18.36:282][725]LogSavePackage: Moving 'C:/Code/ue5-fps-demo/fps_demo/Saved/52_Dive_02D399039E4E2A4646AB7664A5BD0DEAF6.tmp' to 'C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/52_Dive_02.uasset'
+[2025.04.30-05.18.36:283][725]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/sound/56_Attack_03] ([1] browsable assets)...
+[2025.04.30-05.18.36:284][725]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Asset/sound/56_Attack_03.56_Attack_03]
+[2025.04.30-05.18.36:284][725]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/sound/56_Attack_03]
+[2025.04.30-05.18.36:284][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/sound/56_Attack_03" FILE="C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/56_Attack_03.uasset" SILENT=true
+[2025.04.30-05.18.36:285][725]LogSavePackage: Moving output files for package: /Game/Asset/sound/56_Attack_03
+[2025.04.30-05.18.36:285][725]LogSavePackage: Moving 'C:/Code/ue5-fps-demo/fps_demo/Saved/56_Attack_03A4E927CE46FF5F1B6BFC4998EF4C0FC1.tmp' to 'C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/56_Attack_03.uasset'
+[2025.04.30-05.18.36:287][725]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/sound/61_Hit_03] ([1] browsable assets)...
+[2025.04.30-05.18.36:287][725]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Asset/sound/61_Hit_03.61_Hit_03]
+[2025.04.30-05.18.36:287][725]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/sound/61_Hit_03]
+[2025.04.30-05.18.36:287][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/sound/61_Hit_03" FILE="C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/61_Hit_03.uasset" SILENT=true
+[2025.04.30-05.18.36:289][725]LogSavePackage: Moving output files for package: /Game/Asset/sound/61_Hit_03
+[2025.04.30-05.18.36:289][725]LogSavePackage: Moving 'C:/Code/ue5-fps-demo/fps_demo/Saved/61_Hit_03B8128C6A455B0328EA4238A9ED2B9D2F.tmp' to 'C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/61_Hit_03.uasset'
+[2025.04.30-05.18.36:289][725]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/sound/88_Teleport_02] ([1] browsable assets)...
+[2025.04.30-05.18.36:291][725]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Asset/sound/88_Teleport_02.88_Teleport_02]
+[2025.04.30-05.18.36:291][725]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/sound/88_Teleport_02]
+[2025.04.30-05.18.36:291][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/sound/88_Teleport_02" FILE="C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/88_Teleport_02.uasset" SILENT=true
+[2025.04.30-05.18.36:295][725]LogSavePackage: Moving output files for package: /Game/Asset/sound/88_Teleport_02
+[2025.04.30-05.18.36:295][725]LogSavePackage: Moving 'C:/Code/ue5-fps-demo/fps_demo/Saved/88_Teleport_026C884E6047DC99C07D5CD7B2E190D0D1.tmp' to 'C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/88_Teleport_02.uasset'
+[2025.04.30-05.18.36:295][725]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/sound/03_Step_grass_03] ([1] browsable assets)...
+[2025.04.30-05.18.36:297][725]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Asset/sound/03_Step_grass_03.03_Step_grass_03]
+[2025.04.30-05.18.36:297][725]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/sound/03_Step_grass_03]
+[2025.04.30-05.18.36:297][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/sound/03_Step_grass_03" FILE="C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/03_Step_grass_03.uasset" SILENT=true
+[2025.04.30-05.18.36:297][725]LogSavePackage: Moving output files for package: /Game/Asset/sound/03_Step_grass_03
+[2025.04.30-05.18.36:297][725]LogSavePackage: Moving 'C:/Code/ue5-fps-demo/fps_demo/Saved/03_Step_grass_0368707367436EB022B380B0A448997951.tmp' to 'C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/03_Step_grass_03.uasset'
+[2025.04.30-05.18.36:298][725]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/sound/08_Step_rock_02] ([1] browsable assets)...
+[2025.04.30-05.18.36:299][725]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Asset/sound/08_Step_rock_02.08_Step_rock_02]
+[2025.04.30-05.18.36:299][725]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/sound/08_Step_rock_02]
+[2025.04.30-05.18.36:299][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/sound/08_Step_rock_02" FILE="C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/08_Step_rock_02.uasset" SILENT=true
+[2025.04.30-05.18.36:300][725]LogSavePackage: Moving output files for package: /Game/Asset/sound/08_Step_rock_02
+[2025.04.30-05.18.36:300][725]LogSavePackage: Moving 'C:/Code/ue5-fps-demo/fps_demo/Saved/08_Step_rock_0269C301874ED56BDAABA2D3BFD350CD68.tmp' to 'C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/08_Step_rock_02.uasset'
+[2025.04.30-05.18.36:301][725]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/sound/12_Step_wood_03] ([1] browsable assets)...
+[2025.04.30-05.18.36:303][725]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Asset/sound/12_Step_wood_03.12_Step_wood_03]
+[2025.04.30-05.18.36:303][725]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/sound/12_Step_wood_03]
+[2025.04.30-05.18.36:303][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/sound/12_Step_wood_03" FILE="C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/12_Step_wood_03.uasset" SILENT=true
+[2025.04.30-05.18.36:304][725]LogSavePackage: Moving output files for package: /Game/Asset/sound/12_Step_wood_03
+[2025.04.30-05.18.36:304][725]LogSavePackage: Moving 'C:/Code/ue5-fps-demo/fps_demo/Saved/12_Step_wood_0326C708A646419DF84A7A9AB05A8820D2.tmp' to 'C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/12_Step_wood_03.uasset'
+[2025.04.30-05.18.36:311][725]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.158 ms (total: 672.362 ms)
+[2025.04.30-05.18.36:364][725]LogContentValidation: Display: Starting to validate 14 assets
+[2025.04.30-05.18.36:365][725]LogContentValidation: Enabled validators:
+[2025.04.30-05.18.36:365][725]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.30-05.18.36:365][725]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.30-05.18.36:365][725]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.30-05.18.36:365][725]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.30-05.18.36:365][725]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.30-05.18.36:365][725]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.30-05.18.36:365][725]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.04.30-05.18.36:365][725]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.04.30-05.18.36:365][725]AssetCheck: /Game/Asset/sound/14_Step_water_02 Validating asset
+[2025.04.30-05.18.36:365][725]AssetCheck: /Game/Asset/sound/26_Swim_Submerged_02 Validating asset
+[2025.04.30-05.18.36:365][725]AssetCheck: /Game/Asset/sound/30_Jump_03 Validating asset
+[2025.04.30-05.18.36:365][725]AssetCheck: /Game/Asset/sound/42_Cling_climb_03 Validating asset
+[2025.04.30-05.18.36:365][725]AssetCheck: /Game/Asset/sound/45_Landing_01 Validating asset
+[2025.04.30-05.18.36:365][725]AssetCheck: /Game/Asset/sound/52_Dive_02 Validating asset
+[2025.04.30-05.18.36:365][725]AssetCheck: /Game/Asset/sound/56_Attack_03 Validating asset
+[2025.04.30-05.18.36:365][725]AssetCheck: /Game/Asset/sound/61_Hit_03 Validating asset
+[2025.04.30-05.18.36:365][725]AssetCheck: /Game/Asset/sound/88_Teleport_02 Validating asset
+[2025.04.30-05.18.36:365][725]AssetCheck: /Game/Asset/sound/03_Step_grass_03 Validating asset
+[2025.04.30-05.18.36:365][725]AssetCheck: /Game/Asset/sound/08_Step_rock_02 Validating asset
+[2025.04.30-05.18.36:365][725]AssetCheck: /Game/Asset/sound/12_Step_wood_03 Validating asset
+[2025.04.30-05.18.38:458][954]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39846.214844
+[2025.04.30-05.18.38:641][977]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.30-05.18.38:641][977]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39846.386719, Update Interval: 311.188080
+[2025.04.30-05.18.52:026][ 33]LogContentBrowser: Deferred new asset file creation: NewMetaSoundSource
+[2025.04.30-05.18.52:044][ 33]LogContentBrowser: Creating deferred item: NewMetaSoundSource
+[2025.04.30-05.18.52:056][ 34]LogContentBrowser: Renaming the item being created (Deferred Item: NewMetaSoundSource).
+[2025.04.30-05.18.58:316][786]LogContentBrowser: Attempting asset rename: NewMetaSoundSource -> FootStep
+[2025.04.30-05.18.58:326][786]LogContentBrowser: End creating deferred item NewMetaSoundSource
+[2025.04.30-05.19.05:429][632]LogContentBrowser: Attempting asset rename: FootStep -> FootStep
+[2025.04.30-05.19.07:106][833]LogAssetEditorSubsystem: Opening Asset editor for MetaSoundSource /Game/Asset/sound/FootStep.FootStep
+[2025.04.30-05.19.07:157][833]LogSlate: The tab "MetasoundEditor_Pages" attempted to spawn in layout 'Standalone_MetasoundEditor_Layout_v14' but failed for some reason. It will not be displayed.
+[2025.04.30-05.20.50:919][358]LogStreaming: Display: FlushAsyncLoading(595): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.30-05.20.50:991][359]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.04.30-05.20.51:877][462]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.04.30-05.20.52:395][511]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Quinn.ABP_Quinn
+[2025.04.30-05.20.52:395][511]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.04.30-05.20.52:434][511]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.04.30-05.20.52:441][511]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.30-05.20.52:643][511]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.04.30-05.21.05:055][843]LogStreaming: Display: FlushAsyncLoading(596): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.30-05.21.05:379][843]LogSkeletalMesh: Building Skeletal Mesh SKM_Quinn...
+[2025.04.30-05.21.05:427][843]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn) ...
+[2025.04.30-05.21.06:463][843]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.04.30-05.21.06:893][843]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.04.30-05.21.07:320][843]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.04.30-05.21.07:661][843]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2025.04.30-05.21.07:661][843]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2025.04.30-05.21.07:749][843]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.04.30-05.21.08:178][843]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.04.30-05.21.08:606][843]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.04.30-05.21.09:036][843]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.04.30-05.21.09:462][843]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.04.30-05.21.09:890][843]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.04.30-05.21.10:153][843]LogSkeletalMesh: Skeletal mesh [/Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn]: The derived data key is different after the build. Save the asset to avoid rebuilding it everytime the editor load it.
+[2025.04.30-05.21.10:164][843]LogSkeletalMesh: Built Skeletal Mesh [4.79s] /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
+[2025.04.30-05.21.10:167][843]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.04.30-05.21.10:190][844]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.04.30-05.21.10:338][846]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.04.30-05.21.13:468][178]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.MF_Walk_Fwd
+[2025.04.30-05.21.13:469][178]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.04.30-05.21.13:475][178]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.30-05.21.13:633][178]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.04.30-05.21.13:708][178]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.30-05.21.13:917][178]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.04.30-05.21.13:937][178]LogSlate: Took 0.005611 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.04.30-05.21.13:945][178]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2025.04.30-05.21.13:950][178]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.04.30-05.21.14:049][179]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.04.30-05.22.32:144][713]LogDerivedDataCache: C:/Users/marci/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.04.30-05.22.51:039][847]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.30-05.22.51:091][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd] ([1] browsable assets)...
+[2025.04.30-05.22.51:124][847]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.MF_Walk_Fwd]
+[2025.04.30-05.22.51:124][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd]
+[2025.04.30-05.22.51:124][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd" FILE="C:/Code/ue5-fps-demo/fps_demo/Content/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.uasset" SILENT=true
+[2025.04.30-05.22.51:135][847]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd
+[2025.04.30-05.22.51:135][847]LogSavePackage: Moving 'C:/Code/ue5-fps-demo/fps_demo/Saved/MF_Walk_FwdDA6675DC4938D753F22BB081856ED8EF.tmp' to 'C:/Code/ue5-fps-demo/fps_demo/Content/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.uasset'
+[2025.04.30-05.22.51:142][847]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.366 ms (total: 775.728 ms)
+[2025.04.30-05.22.51:193][847]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.30-05.22.51:193][847]LogContentValidation: Enabled validators:
+[2025.04.30-05.22.51:193][847]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.30-05.22.51:193][847]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.30-05.22.51:193][847]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.30-05.22.51:193][847]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.30-05.22.51:193][847]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.30-05.22.51:193][847]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.30-05.22.51:193][847]AssetCheck: /Game/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd Validating asset
+[2025.04.30-05.22.54:605][ 13]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.30-05.22.54:610][ 13]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.04.30-05.22.54:610][ 13]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.04.30-05.22.54:612][ 13]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.500 ms (total: 40.697 ms)
+[2025.04.30-05.22.54:614][ 13]LogPlayLevel: [PlayLevel] Compiling BP_Drawer before play...
+[2025.04.30-05.22.54:803][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.04.30-05.22.54:807][ 13]LogPlayLevel: PlayLevel: Blueprint regeneration took 194 ms (1 blueprints)
+[2025.04.30-05.22.54:808][ 13]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.04.30-05.22.54:811][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002650s)
+[2025.04.30-05.22.54:811][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002683s)
+[2025.04.30-05.22.54:823][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.04.30-05.22.54:825][ 13]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.04.30-05.22.54:826][ 13]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.04.30-05.22.54:826][ 13]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.30-05.22.54:826][ 13]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.30-05.22.54:826][ 13]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.04.30-05.22.54:827][ 13]LogWorldPartition: Display: WorldPartition initialize took 968 us (total: 209.618 ms)
+[2025.04.30-05.22.54:827][ 13]LogPlayLevel: PIE: World Init took: (0.002300s)
+[2025.04.30-05.22.54:827][ 13]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2025.04.30-05.22.54:828][ 13]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.30-05.22.54:828][ 13]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.30-05.22.54:828][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.30-05.22.54:828][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.30-05.22.54:828][ 13]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.30-05.22.54:828][ 13]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.30-05.22.54:828][ 13]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.30-05.22.54:828][ 13]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.30-05.22.54:828][ 13]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.30-05.22.54:828][ 13]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.30-05.22.54:828][ 13]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.30-05.22.54:830][ 13]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.30-05.22.54:843][ 13]LogAudioMixer: Display: Using Audio Hardware Device Hangszórók (Realtek(R) Audio)
+[2025.04.30-05.22.54:843][ 13]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.30-05.22.54:843][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.30-05.22.54:844][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.30-05.22.54:844][ 13]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2025.04.30-05.22.54:844][ 13]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2025.04.30-05.22.54:847][ 13]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2025.04.30-05.22.54:847][ 13]LogInit: FAudioDevice initialized with ID 26.
+[2025.04.30-05.22.54:847][ 13]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2025.04.30-05.22.54:847][ 13]LogAudio: Display: Audio Device (ID: 26) registered with world 'ThirdPersonMap'.
+[2025.04.30-05.22.54:847][ 13]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2025.04.30-05.22.54:852][ 13]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.30-05.22.54:853][ 13]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.04.30-07.22.54
+[2025.04.30-05.22.54:853][ 13]LogWorld: Bringing up level for play took: 0.001291
+[2025.04.30-05.22.54:855][ 13]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2025.04.30-05.22.54:859][ 13]PIE: Server logged in
+[2025.04.30-05.22.54:861][ 13]PIE: Play in editor total start time 0.25 seconds.
+[2025.04.30-05.23.07:791][539]LogBlueprintUserMessages: [BP_Drawer_C_UAID_9C6B0095930D9F6302_1765461023] Trigger Zone
+[2025.04.30-05.23.15:306][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.30-05.23.15:306][437]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.04.30-05.23.15:306][437]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.30-05.23.15:307][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.30-05.23.15:307][437]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.04.30-05.23.15:311][437]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.30-05.23.15:316][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.30-05.23.15:330][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.30-05.23.15:330][437]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2025.04.30-05.23.15:330][437]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.04.30-05.23.15:332][437]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.04.30-05.23.15:340][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.04.30-05.23.15:407][439]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2025.04.30-05.23.43:888][705]LogContentBrowser: Deferred new asset file creation: NewSoundAttenuation
+[2025.04.30-05.23.43:906][705]LogContentBrowser: Creating deferred item: NewSoundAttenuation
+[2025.04.30-05.23.43:914][706]LogContentBrowser: Renaming the item being created (Deferred Item: NewSoundAttenuation).
+[2025.04.30-05.23.53:586][667]LogContentBrowser: Attempting asset rename: NewSoundAttenuation -> SA_Character
+[2025.04.30-05.23.53:587][667]LogContentBrowser: End creating deferred item NewSoundAttenuation
+[2025.04.30-05.23.55:124][845]LogAssetEditorSubsystem: Opening Asset editor for SoundAttenuation /Game/Asset/sound/SA_Character.SA_Character
+[2025.04.30-05.24.03:429][815]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.30-05.24.03:473][815]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Asset/sound/SA_Character] ([1] browsable assets)...
+[2025.04.30-05.24.03:473][815]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/sound/SA_Character]
+[2025.04.30-05.24.03:473][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/sound/SA_Character" FILE="C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/SA_Character.uasset" SILENT=true
+[2025.04.30-05.24.03:473][815]LogSavePackage: Moving output files for package: /Game/Asset/sound/SA_Character
+[2025.04.30-05.24.03:473][815]LogSavePackage: Moving 'C:/Code/ue5-fps-demo/fps_demo/Saved/SA_Character09F70658423F81EFD8689B87AD9C5CD1.tmp' to 'C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/SA_Character.uasset'
+[2025.04.30-05.24.03:483][815]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.509 ms (total: 829.237 ms)
+[2025.04.30-05.24.03:524][815]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.30-05.24.03:524][815]LogContentValidation: Enabled validators:
+[2025.04.30-05.24.03:524][815]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.30-05.24.03:524][815]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.30-05.24.03:524][815]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.30-05.24.03:524][815]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.30-05.24.03:524][815]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.30-05.24.03:524][815]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.30-05.24.03:524][815]AssetCheck: /Game/Asset/sound/SA_Character Validating asset
+[2025.04.30-05.24.17:736][509]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.30-05.24.17:779][509]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Asset/sound/FootStep] ([1] browsable assets)...
+[2025.04.30-05.24.17:779][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/sound/FootStep]
+[2025.04.30-05.24.17:779][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/sound/FootStep" FILE="C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/FootStep.uasset" SILENT=true
+[2025.04.30-05.24.17:797][509]LogSavePackage: Moving output files for package: /Game/Asset/sound/FootStep
+[2025.04.30-05.24.17:797][509]LogSavePackage: Moving 'C:/Code/ue5-fps-demo/fps_demo/Saved/FootStepD89D3568436BE62447D393A4C08DF15B.tmp' to 'C:/Code/ue5-fps-demo/fps_demo/Content/Asset/sound/FootStep.uasset'
+[2025.04.30-05.24.17:804][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.954 ms (total: 897.192 ms)
+[2025.04.30-05.24.17:832][509]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.30-05.24.17:832][509]LogContentValidation: Enabled validators:
+[2025.04.30-05.24.17:832][509]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.30-05.24.17:832][509]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.30-05.24.17:832][509]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.30-05.24.17:832][509]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.30-05.24.17:832][509]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.30-05.24.17:832][509]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.30-05.24.17:833][509]AssetCheck: /Game/Asset/sound/FootStep Validating asset
+[2025.04.30-05.24.49:849][904]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40207.335938
+[2025.04.30-05.24.50:849][907]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.30-05.24.50:849][907]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40208.000000, Update Interval: 358.789642
+[2025.04.30-05.25.03:635][219]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.04.30-05.25.26:075][679]LogActorFactory: Actor Factory attempting to spawn MetaSoundSource /Game/Asset/sound/FootStep.FootStep
+[2025.04.30-05.25.26:075][679]LogActorFactory: Actor Factory attempting to spawn MetaSoundSource /Game/Asset/sound/FootStep.FootStep
+[2025.04.30-05.25.26:075][679]LogStreaming: Display: FlushAsyncLoading(597): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.30-05.25.26:083][679]LogActorFactory: Actor Factory spawned MetaSoundSource /Game/Asset/sound/FootStep.FootStep as actor: AmbientSound /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.AmbientSound_0
+[2025.04.30-05.25.26:084][679]LogActorFactory: Actor Factory spawned MetaSoundSource /Game/Asset/sound/FootStep.FootStep as actor: AmbientSound /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.AmbientSound_0
+[2025.04.30-05.25.27:103][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.04.30-05.25.27:108][768]LogEditorActor: Deleted 0 Actors (0.048 secs)
+[2025.04.30-05.25.27:112][768]LogActorFactory: Actor Factory attempting to spawn MetaSoundSource /Game/Asset/sound/FootStep.FootStep
+[2025.04.30-05.25.27:112][768]LogActorFactory: Actor Factory attempting to spawn MetaSoundSource /Game/Asset/sound/FootStep.FootStep
+[2025.04.30-05.25.27:115][768]LogActorFactory: Actor Factory spawned MetaSoundSource /Game/Asset/sound/FootStep.FootStep as actor: AmbientSound /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.AmbientSound_UAID_9C6B0095930DC46302_1346313537
+[2025.04.30-05.25.27:115][768]LogActorFactory: Actor Factory spawned MetaSoundSource /Game/Asset/sound/FootStep.FootStep as actor: AmbientSound /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.AmbientSound_UAID_9C6B0095930DC46302_1346313537
+[2025.04.30-05.25.34:841][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.04.30-05.25.34:846][656]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/I5/PYEHSGH9TYJHJZ9AK9DB2V_Auto5
+[2025.04.30-05.25.34:846][656]LogSavePackage: Moving 'C:/Code/ue5-fps-demo/fps_demo/Saved/PYEHSGH9TYJHJZ9AK9DB2V_Auto506E6EDB6483CB071DBBDAA8AE90BE953.tmp' to 'C:/Code/ue5-fps-demo/fps_demo/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/I5/PYEHSGH9TYJHJZ9AK9DB2V_Auto5.uasset'
+[2025.04.30-05.25.34:846][656]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.018
+[2025.04.30-05.25.34:846][656]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.018
+[2025.04.30-05.25.34:847][656]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Asset/sound/FootStep] ([1] browsable assets)...
+[2025.04.30-05.25.34:847][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/sound/FootStep]
+[2025.04.30-05.25.34:847][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/sound/FootStep" FILE="C:/Code/ue5-fps-demo/fps_demo/Saved/Autosaves/Game/Asset/sound/FootStep_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2025.04.30-05.25.34:864][656]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Asset/sound/FootStep_Auto5
+[2025.04.30-05.25.34:864][656]LogSavePackage: Moving 'C:/Code/ue5-fps-demo/fps_demo/Saved/FootStep_Auto50013BF7A46B85F28CA957B8769256F4B.tmp' to 'C:/Code/ue5-fps-demo/fps_demo/Saved/Autosaves/Game/Asset/sound/FootStep_Auto5.uasset'
+[2025.04.30-05.25.34:864][656]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Asset/sound/SA_Character] ([1] browsable assets)...
+[2025.04.30-05.25.34:864][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/sound/SA_Character]
+[2025.04.30-05.25.34:864][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/sound/SA_Character" FILE="C:/Code/ue5-fps-demo/fps_demo/Saved/Autosaves/Game/Asset/sound/SA_Character_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2025.04.30-05.25.34:864][656]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Asset/sound/SA_Character_Auto5
+[2025.04.30-05.25.34:864][656]LogSavePackage: Moving 'C:/Code/ue5-fps-demo/fps_demo/Saved/SA_Character_Auto50BE2ADCE4D602B28AB12CBA119A0EB87.tmp' to 'C:/Code/ue5-fps-demo/fps_demo/Saved/Autosaves/Game/Asset/sound/SA_Character_Auto5.uasset'
+[2025.04.30-05.25.34:865][656]LogFileHelpers: Auto-saving content packages took 0.018
+[2025.04.30-05.25.40:062][973]Cmd: DELETE
+[2025.04.30-05.25.40:062][973]Cmd: ACTOR DELETE
+[2025.04.30-05.25.40:064][973]LogEditorActor: Deleted Actor: AmbientSound
+[2025.04.30-05.25.40:079][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.04.30-05.25.40:083][973]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.04.30-05.25.53:439][283]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.30-05.25.53:497][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.04.30-05.25.53:514][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.04.30-05.25.53:527][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.04.30-05.25.53:540][283]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.886 ms (total: 998.078 ms)
